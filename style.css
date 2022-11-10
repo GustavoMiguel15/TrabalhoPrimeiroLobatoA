@@ -5,7 +5,7 @@ body {background-color:#555555 ;
 h1 {color:red;
 }
 
-.ini {color:blue;
+.ini {color:rgb(255, 255, 255);
 }
 
 .ini {font-size: 200%
@@ -20,4 +20,3 @@ ul {background-color: #555555
 #imagem-um {width: 100%;
     border-style: solid;
     border-color: red;
-    
