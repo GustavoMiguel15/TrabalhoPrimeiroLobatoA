@@ -21,7 +21,7 @@ h1 {text-align: center;}
 h1 {font-size: 200%
 }}
 
-img {text-align: center;}
+img {position:absolute;}
 
 li {font-size: 200%
 }
